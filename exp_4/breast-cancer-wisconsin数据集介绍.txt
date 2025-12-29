@@ -1,0 +1,17 @@
+"breast-cancer-wisconsin.data"是一个经常被用于机器学习和数据挖掘任务的数据集，用于癌症的良性和恶性病例。该数据集最初由威斯康星大学的Wolberg博士创建，并在UCI机器学习库中公开。
+
+该数据集包含以下特征（属性）：
+
+Sample code number: 样本编号，用于唯一标识每个样本。
+Clump Thickness: 肿块的厚度。
+Uniformity of Cell Size: 细胞大小的均匀度。
+Uniformity of Cell Shape: 细胞形状的均匀度。
+Marginal Adhesion: 边缘附着力。
+Single Epithelial Cell Size: 单个上皮细胞的大小。
+Bare Nuclei: 光滑核的数量。
+Bland Chromatin: 淡染色质的均匀度。
+Normal Nucleoli: 正常核仁的数量。
+Mitoses: 核分裂的数量。
+Class: 细胞的分类，2表示良性（benign），4表示恶性（malignant）。
+
+https://archive.ics.uci.edu/dataset/15/breast+cancer+wisconsin+original
